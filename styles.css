@@ -67,7 +67,7 @@ a:hover{
     width: max-content;
     border-bottom: solid 2px rgb(44, 36, 36);
 }
-/* .featured:before{
+featured:before{
     margin-top: 64px;
     content: " ";
     z-index: -1;
@@ -75,7 +75,7 @@ a:hover{
     
     line-height: 4rem;
     border-bottom: solid 2px rgb(66, 58, 58);
-} */
+}
 
 .section-body{
     margin-top: -22px;
